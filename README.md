@@ -6,5 +6,5 @@ Basically, the software reveals the foreground and background of a greyscale ima
 
 It can also be used in fields outside of medicine.
 
-A demo of the software can be viewed in the video below.
+A demo of the software can be viewed in the video below.  
 https://youtu.be/4acH0mB9wu8
