@@ -1,7 +1,9 @@
 Diagnosing MGD.
 
 **UPDATE (January 25, 2026)**  
-The pseudocode presented in the thesis may contain errors; however, the software implementation has been tested and verified multiple times and provides a fast, straightforward, and error-free algorithm.
+The pseudocode presented in the thesis may contain errors; however, the software implementation has been tested and verified multiple times and provides a fast, straightforward, and error-free algorithm.  
+
+------------------
 
 This research represents a fast and easy method along with a software for diagnosing Meibomian Gland Dysfunction (MGD), one of the common eye diseases. By taking a meibography image from the user, it marks the MGD channels and reveals the level of the disease within a few seconds.
 
